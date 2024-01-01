@@ -1,0 +1,136 @@
+AMS 197SEM Seneca Language
+AMS 276LEC Languages and Cultures of Native North America
+APY 104LEC Great Sites in Archaeology and the Romantic Imagination
+APY 105LEC Introduction to Anthropology
+APY 106LEC Introduction to Cultural Anthropology
+AS 221LEC Survey of Asian Literature
+AS 338LEC Islam and Literature
+AS 345LEC Contemporary Korean Popular Culture and the Korean Wave
+AS 347LEC The Fantastical World of Japanese Anime
+ASL 306LEC Third-Year American Sign Language
+CHI 101LEC First-Year Chinese
+CL 105LEC Greek & Roman Archaeology
+CL 110LEC The Latest News from the Ancient World
+CL 112LEC Stone Axe to Tank: Warfare in World History
+CL 228LEC Warfare in the Ancient World
+COL 112LEC Cross-Cultural Explorations: Encounters with Western, East Asian, and African Cultures
+END 331SEM Urban China in Transition
+END 363LEC Cities and Globalization
+ENG 110LEC Great Books
+ENG 232LEC British Writers II
+ENG 290LEC Literature & War
+ENG 374LEC Bible As Literature
+FR 104LEC Transitional Elementary FrenchPrerequisites
+GEO 100LEC World Regions & Issues
+GEO 102LEC Introduction to Human Geography
+GEO 103LEC Global Economic Geographies
+GEO 330LEC Dynamics of International Business
+GEO 334LEC International Business Cultures
+GGS 347SEM Women in Latin America
+GR 101LEC Ancient Greek Language and Culture I
+HEB 101LEC Elementary Hebrew
+HIS 141LR World History to 1500
+HIS 142LR World History since 1500
+HIS 143LR Global Inequality and Power
+HIS 181LR Asian Civilization 1
+HIS 182LR Asian Civilization II
+HIS 293LEC The Second World War
+HIS 314LEC Modern Africa: Globalization and Imperialism Since 1800
+HIS 391LEC China and the World
+ITA 104LEC Transitional Elementary ItalianPrerequisites
+JDS 103LEC Introduction to Judaism
+JDS 275LEC History of Antisemitism: From Antiquity to the Present
+JDS 284LEC Justice in Bibles, Law, and Philosophy
+JPN 321LEC Food Culture in JapanPrerequisites
+LAT 101LEC Latin Language and Culture I
+MGG 205SEM Ghana: Social Innovation & Entrepreneurial Leadership in Africa
+MGG 301LEC International Business in EuropeStudy Abroad
+MGG 302LEC Social Innovation & Entrepreneurial Leadership in Latin AmericaStudy Abroad
+MGG 306SEM Ghana: Social & Intercultural Leadership in AfricaPrerequisites
+MGG 380LEC International Business in SingaporeStudy Abroad
+MOH 101SEM Introduction to Mohawk Language
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+PHI 376LEC Buddhist Philosophy
+POL 101LEC Elementary Polish 1st Semester
+PSC 102LEC Introduction to International Politics
+PSC 103LEC Introduction to Comparative Politics
+PSC 326LEC War and International Security
+PSC 328LEC International Political Economy
+PSC 330LEC International Relations Problems
+PSC 338LEC Comparative Foreign Policy
+PSC 347LEC The Logic of Political Violence
+RLL 175LEC Indigenous Cultures of Latin America Through the Lens of Theatre
+RLL 201LEC Creoles, Pidgins and Mixed Languages and Cultures
+RSP 313LEC World Religions
+SCN 101SEM Introduction to Seneca Language
+SPA 104LEC Transitional Elementary SpanishPrerequisites
+TUS 101SEM Introduction to Tuscarora Language
+MGG 301LEC International Business in EuropeStudy Abroad
+MGG 302LEC Social Innovation & Entrepreneurial Leadership in Latin AmericaStudy Abroad
+MGG 306SEM Ghana: Social & Intercultural Leadership in AfricaPrerequisites
+MGG 380LEC International Business in SingaporeStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+UBC 402TUT Global Pathway Course - Languages
+UBC 403TUT Global Pathway Course - Civilization and History
+MGG 301LEC International Business in EuropeStudy Abroad
+MGG 302LEC Social Innovation & Entrepreneurial Leadership in Latin AmericaStudy Abroad
+MGG 306SEM Ghana: Social & Intercultural Leadership in AfricaPrerequisites
+MGG 380LEC International Business in SingaporeStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+UBC 402TUT Global Pathway Course - Languages
+UBC 403TUT Global Pathway Course - Civilization and History
+ASL 101LEC First Year American Sign Language
+CHI 101LEC First-Year Chinese
+CHI 104LEC Transitional First-Year ChinesePrerequisites
+CHI 201LEC Second-Year ChinesePrerequisites
+CHI 202LEC Second-Year Chinese
+CHI 301LEC Third-Year Chinese
+FR 101LEC Elementary French 1st Semester
+FR 102LEC Elementary French 2nd SemesterPrerequisites
+FR 104LEC Transitional Elementary French
+FR 151LEC Intermediate French 1st Semester
+FR 152LEC Intermediate French 2nd Semester
+FR 211LEC Languages, Texts, and Contexts of the French-Speaking World IPrerequisites
+FR 212LEC Languages, Texts, and Contexts of the French-Speaking World IIPrerequisites
+FR 213LEC Languages, Texts, and Contexts of the French-Speaking World III
+GER 101LEC Elementary German 1st Semester
+GER 151LEC Intermediate German I
+GER 152LEC Intermediate German II
+GR 101LEC Ancient Greek Language and Culture I
+GRE 101LEC 1st year 1st semester Greek
+HEB 101LEC Elementary Hebrew
+HEB 102LEC Elementary Modern Hebrew 2
+HIN 101LEC Intensive First Year Hindi-Urdu
+ITA 101LEC Elementary Italian 1st Semester
+ITA 104LEC Transitional Elementary ItalianPrerequisites
+ITA 151LEC Intermediate Italian 1st SemesterPrerequisites
+ITA 152LEC Intermediate Italian 2nd Semester
+ITA 207LEC Italian Conversation & Composition
+JPN 101LEC First-Year Japanese
+JPN 201LEC Second-Year Japanese
+JPN 202LEC Second-Year Japanese
+KOR 101LEC First-Year Korean
+KOR 201LEC Second-Year Korean
+KOR 202LEC Second-Year Korean
+LAT 101LEC Latin Language and Culture I
+LAT 301LEC Latin Language and Culture III
+POL 101LEC Elementary Polish 1st Semester
+POR 101LEC Elementary Portuguese 1st Semester
+RUS 101LEC Elementary Russian 1st Semester
+SPA 101LEC Elementary Spanish 1st Semester
+SPA 101LEC Elementary Spanish 1st Semester  
+SPA 102LEC Elementary Spanish 2nd Semester
+SPA 104LEC Transitional Elementary Spanish
+SPA 151LEC Intermediate Spanish 1st SemesterPrerequisites
+SPA 171LEC Elementary Spanish for Heritage Speakers I
+SPA 152LEC Intermediate Spanish 2nd SemesterPrerequisites
+SPA 172LEC Elementary Spanish for Heritage Speakers II
+SPA 207LEC Spanish Conversation and Language WorkshopPrerequisites
+SPA 208LEC Spanish Composition and Language WorkshopPrerequisites
+SPA 210LEC How to Read a Spanish Text
+SPA 215LEC Intermediate Review of Spanish Grammar
+SPA 216LEC Hispanic Civilization
+SPA 225LEC Spanish Language Through Theatre

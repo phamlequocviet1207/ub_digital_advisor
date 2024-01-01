@@ -1,0 +1,284 @@
+APY 108LEC Introduction to Archaeology
+APY 312LEC Culture and Reproduction
+APY 326LEC Near East and Mid East Prehistory
+APY 394LEC Shamans and Healers in South America
+BCH 403LEC Biochemical PrinciplesPrerequisites
+BE 493SEM Research and Design in Biomedical EngineeringPrerequisites
+BIO 305LEC Fundamentals of Biological ChemistryPrerequisites
+BMI 401LEC Introduction to Biomedical Informatics
+CE 408LR Chemical Engineering Plant DesignPrerequisites
+CIE 340LR Environmental EngineeringPrerequisites
+CIE 344LEC SustainabilityPrerequisites
+CIE 359LEC Sustainability in Latin America: A Case Study in Costa RicaStudy Abroad
+COM 202SEM Intercultural Communication
+CSE 450LEC Hardware/Software Integrated Systems Design IPrerequisites
+DAC 430LEC Dance HistoryPrerequisites
+DAC 432LEC Applied Kinesiology and Anatomy for DancersPrerequisites
+EAS 494SEM Interdisciplinary Capstone Senior DesignPrerequisites
+EE 383LR Communications Systems IPrerequisites
+EE 494SEM Senior Capstone Design ProjectPrerequisites
+ENS 494SEM Capstone Design 2Prerequisites
+ES 200LEC Introduction to Exercise Science
+GEO 120LEC Maps: Earth From Above
+GEO 333LEC International Trade
+IDS 330SEM Afro-Indigeneity: Black Natives, Anti-Blackness, and Decolonization
+IDS 332SEM Indigenous Perspectives on U.S. History
+IE 494LEC Senior Capstone Industry ProjectPrerequisites
+LIN 106LEC Languages of the World
+LIN 108LEC Roots of English
+LIN 205LEC Introduction to Linguistic Analysis
+LIN 207LEC Language, Society, and the Individual
+MAE 434LEC Aircraft DesignPrerequisites
+MAE 494LT Design ProjectPrerequisites
+MDI 450LEC Machine Learning in Materials DesignPrerequisites
+MIC 301LLB Microbiology for Allied Health Professionals
+MIC 401LLB Biomedical MicrobiologyPrerequisites
+MT 401LR Clinical BiochemistryPrerequisites
+MTR 302LEC Musical Theatre HistoryPrerequisites
+NBC 410LLB Public Health Nursing for Population HealthPrerequisites
+NMD 340LEC Patient Care and Management in NMTPrerequisites
+NSG 314LEC Application of Healthcare Informatics to Promote Health, Quality and SafetyPrerequisites
+NSG 393SEM Informatics and the Health Care EnvironmentPrerequisites
+NTR 402LEC Nutrition in the Life CyclePrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+PGY 300LEC Human PhysiologyPrerequisites
+PGY 451LEC Human Physiology IPrerequisites
+PSC 332LEC International Organizations
+PSC 343LEC The Politics of Civil War
+PSC 348LEC Trade Wars and International Trade Law
+PSC 349SEM Revolution and Culture in Paris
+SOC 309LEC Social Change
+SOC 358LEC Sociology of FoodStudy Abroad
+SW 111LEC Media Advocacy and the UN Sustainable Development Goals: Living and Leading in a Global World
+SW 245LEC Global Child Advocacy Issues
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+SOC 358LEC Sociology of FoodStudy Abroad
+SOC 467LEC Sociology and Social PolicyStudy Abroad
+SOC 477SEM Sociology of Health CareStudy Abroad
+UBC 400TUT Global Pathway Course - No UB Area
+UBC 405TUT Global Pathway Course - Social Sciences
+CHI 301LEC Third-Year ChinesePrerequisites
+CHI 341LEC Literary Chinese IPrerequisites
+CHI 342LEC Literary Chinese IIPrerequisites
+CHI 401LEC Readings On Chinese Culture and CustomsPrerequisites
+CHI 402LEC Readings On Chinese Culture and CustomsPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+CHI 302LEC Third-Year ChinesePrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+CHI 341LEC Literary Chinese IPrerequisites
+CHI 342LEC Literary Chinese IIPrerequisites
+CHI 401LEC Readings On Chinese Culture and CustomsPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+FR 151REC Intermediate French IPrerequisites
+FR 152LEC Intermediate French 2nd SemesterPrerequisites
+FR 151REC Intermediate French IPrerequisites
+FR 152LEC Intermediate French 2nd SemesterPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+FR 211LEC Languages, Texts, and Contexts of the French-Speaking World IPrerequisites
+FR 212LEC Languages, Texts, and Contexts of the French-Speaking World IIPrerequisites
+FR 213LEC Languages, Texts, and Contexts of the French-Speaking World IIIPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+FR 211LEC Languages, Texts, and Contexts of the French-Speaking World IPrerequisites
+FR 212LEC Languages, Texts, and Contexts of the French-Speaking World IIPrerequisites
+FR 213LEC Languages, Texts, and Contexts of the French-Speaking World IIIPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+FR 301LEC Survey of French Literature IPrerequisites
+FR 302LEC Survey of French Literature IIPrerequisites
+FR 305LEC Reading French HistoriansPrerequisites
+FR 341LEC Topics in French FilmPrerequisites
+FR 345LEC French Phonetics and PhonologyPrerequisites
+FR 349LEC Stylistics and TranslationPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+GER 301LEC Survey of German Cultural History I
+GER 302LEC Survey of German Cultural History II
+GER 337LEC Advanced Conversation and Composition
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+GER 301LEC Survey of German Cultural History I
+GER 302LEC Survey of German Cultural History II
+GER 337LEC Advanced Conversation and Composition
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+HEB 202LEC Intermediate Hebrew 2
+ITA 151REC Intermediate ITA RecitationPrerequisites
+ITA 152LEC Intermediate Italian 2nd SemesterPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+ITA 207LEC Italian Conversation & CompositionPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+ITA 404SEM The Works of Dante
+ITA 405LEC Twentieth-Century Italian Literature
+ITA 413LEC Italian Theatre
+ITA 415LEC Modern Novel From Manzoni to the Present
+ITA 422LEC Modern Italian Literature
+ITA 425LEC Italian Novella
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+ITA 404SEM The Works of Dante
+ITA 405LEC Twentieth-Century Italian Literature
+ITA 413LEC Italian Theatre
+ITA 415LEC Modern Novel From Manzoni to the Present
+ITA 422LEC Modern Italian Literature
+ITA 425LEC Italian Novella
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+JPN 301LEC Third-Year JapanesePrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+JPN 302LEC Third-Year JapanesePrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+KOR 301LEC Third-Year KoreanPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+KOR 302LEC Third-Year KoreanPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social Sciences
+CL 222LEC Greek Civilization
+CL 223LEC Roman Civilization
+CL 315LEC Epic in Translation
+CL 338LEC Roman Archaeology I
+CL 339LEC Roman Archaeology II
+CL 340LEC The Classical Origins of Western Literature
+CL 363LEC Roman Religion
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+SPA 151REC Intermediate SPA RecitationPrerequisites
+SPA 152LEC Intermediate Spanish 2nd Semester
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+SPA 151REC Intermediate SPA RecitationPrerequisites
+SPA 152LEC Intermediate Spanish 2nd Semester
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+SPA 207LEC Spanish Conversation and Language WorkshopPrerequisites
+SPA 208LEC Spanish Composition and Language WorkshopPrerequisites
+SPA 210LEC How to Read a Spanish Text
+SPA 225LEC Spanish Language Through Theatre
+SPA 241LEC Spanish for Bilinguals
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+SPA 207LEC Spanish Conversation and Language WorkshopPrerequisites
+SPA 208LEC Spanish Composition and Language WorkshopPrerequisites
+SPA 210LEC How to Read a Spanish Text
+SPA 215LEC Intermediate Review of Spanish Grammar
+SPA 216LEC Hispanic Civilization
+SPA 225LEC Spanish Language Through Theatre
+SPA 241LEC Spanish for BilingualsPrerequisites
+OPR 400TUT Study Abroad - No UB AreaStudy Abroad
+OPR 401TUT Study Abroad - ArtsStudy Abroad
+OPR 402TUT Study Abroad - LanguagesStudy Abroad
+OPR 403TUT Study Abroad - Civilization and HistoryStudy Abroad
+OPR 404TUT Study Abroad - HumanitiesStudy Abroad
+OPR 405TUT Study Abroad - Social SciencesStudy Abroad
+SPA 301LEC Survey of Spanish Literature: Middle Ages to Seventeenth Century
+SPA 302LEC Survey of Spanish Literature: Eighteenth Century to Present
+SPA 304LEC Early Spanish American Literature
+SPA 311LEC Survey of Spanish American Literature
+SPA 313LEC Advanced Grammar
+SPA 327LEC Spanish Culture and Civilization
+SPA 328LEC Spanish American Culture and Civilization
+SPA 350LEC Topics in Spanish American Short Story
+SPA 407LEC Contemporary Literature of Spain
+SPA 413LEC Grammar: Writing and Translation
+SPA 416LEC Spanish American Theatre
+SPA 421LEC Introduction to Spanish Linguistics
+SPA 435LEC Mexican Film

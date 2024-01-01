@@ -1,0 +1,154 @@
+APY 107LEC Introduction to Biological Anthropology
+APY 108LEC Introduction to Archaeology
+APY 326LEC Near East and Mid East Prehistory
+COM 240LEC Introduction to Mass Communication
+ECO 208LEC Introduction to Environmental Economics
+END 120LEC Introduction to Urban Planning
+END 212LEC Urban Planning and Environmental Design
+END 300LEC Environment and Landscapes
+END 302LEC Sustainable Urban Environments
+END 304LEC Transportation in Environmental Design and Urban Life
+END 308SEM Health and Urban Environments
+END 331SEM Urban China in Transition
+END 356SLB Computing for Environmental Analysis
+END 363LEC Cities and Globalization
+ES 230LEC Social Ecological Perspectives on Physical Activity & Exercise
+EVS 118LEC Introduction to Environmental and Sustainability Studies
+EVS 201LEC Climate Change & Sustainability
+EVS 250LEC Environmental Justice
+EVS 327LEC Sustainable Food and Agriculture
+EVS 330LEC Sustainability and Community
+GEO 102LEC Introduction to Human Geography
+GEO 112LEC International Health
+GEO 120LEC Maps: Earth From Above
+GEO 281LEC Web-Based Geographic Information Systems
+GEO 330LEC Dynamics of International Business
+PSC 101LEC Introduction to American Politics
+PSC 317LEC Environmental Politics
+PSC 324LEC Politics and Technology
+SOC 341LEC Environment & Society
+APY 107LEC Introduction to Biological Anthropology
+APY 312LEC Culture and Reproduction
+APY 394LEC Shamans and Healers in South America
+ECO 211LEC Introduction to Health Economics
+END 212LEC Urban Planning and Environmental Design
+END 300LEC Environment and Landscapes
+END 304LEC Transportation in Environmental Design and Urban Life
+END 308SEM Health and Urban Environments
+ES 230LEC Social Ecological Perspectives on Physical Activity & Exercise
+GEO 112LEC International Health
+HIS 144LR Introduction to Health, Medicine, and Society
+PSC 343LEC The Politics of Civil War
+PSY 121LEC Introduction to Substance Use and Abuse
+PUB 101LEC Introduction to Public Health
+SOC 239LEC Sociology of Happiness
+SSC 103SEM Introduction to Health and Human Services
+SW 225LEC Perspectives on Child Maltreatment and Advocacy
+APY 104LEC Great Sites in Archaeology and the Romantic Imagination
+APY 105LEC Introduction to Anthropology
+APY 107LEC Introduction to Biological Anthropology
+APY 108LEC Introduction to Archaeology
+APY 215LEC Historic Archaeology
+APY 326LEC Near East and Mid East Prehistory
+APY 355SEM The Evolution of Hominin Behavior: Our Stone Age Heritage
+APY 394LEC Shamans and Healers in South America
+COM 202SEM Intercultural Communication
+COM 240LEC Introduction to Mass Communication
+ECO 182LD Introduction to Microeconomics
+END 120LEC Introduction to Urban Planning
+END 212LEC Urban Planning and Environmental Design
+END 302LEC Sustainable Urban Environments
+END 308SEM Health and Urban Environments
+END 331SEM Urban China in Transition
+END 356SLB Computing for Environmental Analysis
+END 363LEC Cities and Globalization
+EVS 330LEC Sustainability and Community
+GEO 100LEC World Regions & Issues
+GEO 102LEC Introduction to Human Geography
+GEO 120LEC Maps: Earth From Above
+GEO 281LEC Web-Based Geographic Information Systems
+GEO 334LEC International Business Cultures
+LIN 106LEC Languages of the World
+LIN 108LEC Roots of English
+LIN 205LEC Introduction to Linguistic Analysis
+LIN 207LEC Language, Society, and the Individual
+PSC 101LEC Introduction to American Politics
+PSC 102LEC Introduction to International Politics
+PSC 215LEC Law and the Political Process
+PSC 319LEC Media in American Politics
+PSC 324LEC Politics and Technology
+PSC 343LEC The Politics of Civil War
+PSC 349SEM Revolution and Culture in Paris
+PSY 101LEC Introductory Psychology
+SOC 239LEC Sociology of Happiness
+SOC 315LEC Sociology of City Life
+SOC 330LEC Cinematic Sociology
+SW 220LEC Introduction to Community Organizing and Development
+COM 217LEC Communication in Organizations
+COM 317DIS Business/Professional Communication
+ECO 181LD Introduction to Macroeconomics
+ECO 182LD Introduction to Microeconomics
+ECO 201LEC Economic History of the United States
+ECO 205LEC Money and Banking
+ECO 208LEC Introduction to Environmental Economics
+ECO 211LEC Introduction to Health Economics
+END 120LEC Introduction to Urban Planning
+END 331SEM Urban China in Transition
+GEO 100LEC World Regions & Issues
+GEO 102LEC Introduction to Human Geography
+GEO 103LEC Global Economic Geographies
+GEO 330LEC Dynamics of International Business
+GEO 333LEC International Trade
+GEO 334LEC International Business Cultures
+LIS 205LEC Information & Society
+PSC 103LEC Introduction to Comparative Politics
+PSC 302LEC Protecting Civil LibertiesPrerequisites
+PSC 319LEC Media in American Politics
+PSC 326LEC War and International Security
+PSC 328LEC International Political Economy
+PSC 332LEC International Organizations
+PSC 335LEC American Foreign Policy
+PSC 338LEC Comparative Foreign Policy
+SOC 341LEC Environment & Society
+SSC 235LEC Introduction to Nonprofit Organizations
+ECO 201LEC Economic History of the United States
+ECO 212LEC Current Economic Problems
+END 120LEC Introduction to Urban Planning
+END 212LEC Urban Planning and Environmental Design
+EVS 250LEC Environmental Justice
+GEO 100LEC World Regions & Issues
+GEO 102LEC Introduction to Human Geography
+GEO 103LEC Global Economic Geographies
+GEO 112LEC International Health
+GEO 330LEC Dynamics of International Business
+GEO 333LEC International Trade
+GEO 334LEC International Business Cultures
+LIN 106LEC Languages of the World
+LIS 205LEC Information & Society
+PHI 353LEC Conflict and Dispute Resolution
+PSC 101LEC Introduction to American Politics
+PSC 102LEC Introduction to International Politics
+PSC 103LEC Introduction to Comparative Politics
+PSC 215LEC Law and the Political Process
+PSC 302LEC Protecting Civil LibertiesPrerequisites
+PSC 319LEC Media in American Politics
+PSC 326LEC War and International Security
+PSC 328LEC International Political Economy
+PSC 330LEC International Relations Problems
+PSC 332LEC International Organizations
+PSC 335LEC American Foreign Policy
+PSC 338LEC Comparative Foreign Policy
+PSC 343LEC The Politics of Civil War
+PSC 347LEC The Logic of Political Violence
+PSC 349SEM Revolution and Culture in Paris
+PSC 393LEC Game Theory and Politics
+PSY 101LEC Introductory Psychology
+PSY 121LEC Introduction to Substance Use and Abuse
+SOC 309LEC Social Change
+SOC 330LEC Cinematic Sociology
+SOC 341LEC Environment & Society
+SSC 343LEC Violence and the Family
+SW 140LEC Power to the People: Introduction to Organizing & Advocacy Strategies
+SW 150LEC Social Media in Social Change
+SW 220LEC Introduction to Community Organizing and Development
+SW 225LEC Perspectives on Child Maltreatment and Advocacy

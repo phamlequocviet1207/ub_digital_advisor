@@ -1,0 +1,405 @@
+AHI 101LEC Survey of Art History: Egypt to Northern Renaissance
+AHI 102LR Survey of Art History: Italian Renaissance to Present
+AHI 105LEC Mythology in the Ancient World
+AHI 111LR World Civilization and Art
+AHI 204LEC Mythology in Ancient Art
+AHI 251LEC Introduction to Modern Art
+AHI 395LEC Contemporary Art
+AMS 145LEC Cities of the World
+ARC 121LEC Introduction to Architecture
+ARC 122LAB Architectural Sketching and the Built Environment
+ART 150LEC Visual Theory, Aesthetics, and Criticism
+ART 375LEC Science, Culture, and Emerging Media
+AS 347LEC The Fantastical World of Japanese Anime
+BCH 403LEC Biochemical PrinciplesPrerequisites
+BE 436LR Biomechanics of Human MovementPrerequisites
+BIO 305LEC Fundamentals of Biological ChemistryPrerequisites
+CE 404LR Chemical Engineering Product DesignPrerequisites
+CIE 415LEC Professional Practice IssuesPrerequisites
+CL 100LEC Archaeology and Rediscovery in the Classical World
+CL 110LEC The Latest News from the Ancient World
+CL 112LEC Stone Axe to Tank: Warfare in World History
+CSE 442LR Software EngineeringPrerequisites
+CSE 453LEC Hardware/Software Integrated Systems Design 2Prerequisites
+DMS 201LEC Green Media
+DMS 220LEC Machines, Codes and Cultures
+EAS 330LEC Ethics in Engineering and Computing
+EAS 494SEM Interdisciplinary Capstone Senior DesignPrerequisites
+EE 336LEC Fundamentals of Energy SystemsPrerequisites
+END 279LEC Exploring the Design of Buffalo Niagara
+END 330DIS Global Issues in Design Practice
+END 357SEM Creative Problem Solving for Global Environments
+ENG 125LEC Living Well in the Digital World
+ENG 191LEC Literature and Technology
+ENG 380LEC New Media
+ENS 493SEM Capstone Design 1Prerequisites
+ES 200LEC Introduction to Exercise Science
+EVS 321LEC The Environmental Impact of War
+HIS 141LR World History to 1500
+HIS 143LR Global Inequality and Power
+IE 322LEC Analytics and Computing for Industrial EngineersPrerequisites
+MAE 451LEC Design Process and MethodsPrerequisites
+MDI 471LEC Materials for a Regenerative EconomyPrerequisites
+MIC 301LLB Microbiology for Allied Health Professionals
+MIC 401LLB Biomedical MicrobiologyPrerequisites
+MT 401LR Clinical BiochemistryPrerequisites
+NBC 410LLB Public Health Nursing for Population HealthPrerequisites
+NMD 340LEC Patient Care and Management in NMTPrerequisites
+NSG 314LEC Application of Healthcare Informatics to Promote Health, Quality and SafetyPrerequisites
+NSG 393SEM Informatics and the Health Care EnvironmentPrerequisites
+NTR 402LEC Nutrition in the Life CyclePrerequisites
+PGY 300LEC Human PhysiologyPrerequisites
+PGY 451LEC Human Physiology IPrerequisites
+PHI 107LEC Ethics
+PHI 234LEC Environmental Ethics
+PUB 340LEC Introduction to EpidemiologyPrerequisites
+TH 106LEC Introduction to Technical Theatre
+AHI 101LEC Survey of Art History: Egypt to Northern Renaissance
+AHI 102LR Survey of Art History: Italian Renaissance to Present
+AHI 105LEC Mythology in the Ancient World
+AHI 111LR World Civilization and Art
+AHI 204LEC Mythology in Ancient Art
+AHI 251LEC Introduction to Modern Art
+AHI 395LEC Contemporary Art
+AMS 145LEC Cities of the World
+ARC 121LEC Introduction to Architecture
+ARC 122LAB Architectural Sketching and the Built Environment
+ART 150LEC Visual Theory, Aesthetics, and Criticism
+ART 375LEC Science, Culture, and Emerging Media
+AS 347LEC The Fantastical World of Japanese Anime
+BCH 403LEC Biochemical PrinciplesPrerequisites
+BE 436LR Biomechanics of Human MovementPrerequisites
+BIO 305LEC Fundamentals of Biological ChemistryPrerequisites
+CE 404LR Chemical Engineering Product DesignPrerequisites
+CIE 415LEC Professional Practice IssuesPrerequisites
+CL 100LEC Archaeology and Rediscovery in the Classical World
+CL 110LEC The Latest News from the Ancient World
+CL 112LEC Stone Axe to Tank: Warfare in World History
+CSE 442LR Software EngineeringPrerequisites
+CSE 453LEC Hardware/Software Integrated Systems Design 2Prerequisites
+DMS 201LEC Green Media
+DMS 220LEC Machines, Codes and Cultures
+EAS 330LEC Ethics in Engineering and Computing
+EAS 494SEM Interdisciplinary Capstone Senior DesignPrerequisites
+EE 336LEC Fundamentals of Energy SystemsPrerequisites
+END 279LEC Exploring the Design of Buffalo Niagara
+END 330DIS Global Issues in Design Practice
+END 357SEM Creative Problem Solving for Global Environments
+ENG 125LEC Living Well in the Digital World
+ENG 191LEC Literature and Technology
+ENG 380LEC New Media
+ENS 493SEM Capstone Design 1Prerequisites
+ES 200LEC Introduction to Exercise Science
+EVS 321LEC The Environmental Impact of War
+HIS 141LR World History to 1500
+HIS 143LR Global Inequality and Power
+IE 322LEC Analytics and Computing for Industrial EngineersPrerequisites
+MAE 451LEC Design Process and MethodsPrerequisites
+MDI 471LEC Materials for a Regenerative EconomyPrerequisites
+MIC 301LLB Microbiology for Allied Health Professionals
+MIC 401LLB Biomedical MicrobiologyPrerequisites
+MT 401LR Clinical BiochemistryPrerequisites
+NBC 410LLB Public Health Nursing for Population HealthPrerequisites
+NMD 340LEC Patient Care and Management in NMTPrerequisites
+NSG 314LEC Application of Healthcare Informatics to Promote Health, Quality and SafetyPrerequisites
+NSG 393SEM Informatics and the Health Care EnvironmentPrerequisites
+NTR 402LEC Nutrition in the Life CyclePrerequisites
+PGY 300LEC Human PhysiologyPrerequisites
+PGY 451LEC Human Physiology IPrerequisites
+PHI 107LEC Ethics
+PHI 234LEC Environmental Ethics
+PUB 340LEC Introduction to EpidemiologyPrerequisites
+TH 106LEC Introduction to Technical Theatre
+AAS 117SEM Hip Hop and Social Issues
+AAS 128SEM Public Policies & Social Justice
+AAS 253LEC Blacks in Films
+AAS 254LEC Race in Films
+AAS 280LEC Survey of African Studies
+AAS 324LEC Black Writers
+AHI 101LEC Survey of Art History: Egypt to Northern Renaissance
+AHI 102LR Survey of Art History: Italian Renaissance to Present
+AHI 105LEC Mythology in the Ancient World
+AHI 111LR World Civilization and Art
+AHI 204LEC Mythology in Ancient Art
+AHI 207LEC Arts of Islamic World
+AHI 251LEC Introduction to Modern Art
+AHI 258LEC Impressionism & Post Impressionism
+AHI 363LEC Social Issues in American Art
+AHI 395LEC Contemporary Art
+AMS 145LEC Cities of the World
+AMS 325SEM Contemporary Afro-Caribbean Religion
+ARC 121LEC Introduction to Architecture
+ARC 122LAB Architectural Sketching and the Built Environment
+ART 100LEC What Are You Looking At? Deciphering Design in the World
+AS 221LEC Survey of Asian Literature
+AS 333LEC South Asian Cinema: Bollywood and Beyond
+AS 338LEC Islam and Literature
+AS 345LEC Contemporary Korean Popular Culture and the Korean Wave
+AS 364LEC Chinese Film and Visual Culture
+BCH 403LEC Biochemical PrinciplesPrerequisites
+BE 436LR Biomechanics of Human MovementPrerequisites
+BIO 305LEC Fundamentals of Biological ChemistryPrerequisites
+CE 404LR Chemical Engineering Product DesignPrerequisites
+CHI 280LEC Survey of Chinese Culture
+CIE 415LEC Professional Practice IssuesPrerequisites
+CL 100LEC Archaeology and Rediscovery in the Classical World
+CL 105LEC Greek & Roman Archaeology
+CL 110LEC The Latest News from the Ancient World
+CL 112LEC Stone Axe to Tank: Warfare in World History
+CL 113LEC Myth and Religion in the Ancient World
+CL 151LEC Medical Terminology
+CL 180LEC Ancient Sport
+CL 222LEC Greek Civilization
+CL 228LEC Warfare in the Ancient World
+CL 363LEC Roman Religion
+COL 112LEC Cross-Cultural Explorations: Encounters with Western, East Asian, and African Cultures
+COL 233LEC Literature and Happiness
+CSE 442LR Software EngineeringPrerequisites
+CSE 453LEC Hardware/Software Integrated Systems Design 2Prerequisites
+DAC 104LEC Appreciating Dance
+DAC 430LEC Dance HistoryPrerequisites
+DAC 432LEC Applied Kinesiology and Anatomy for DancersPrerequisites
+DMS 107LEC Film & Media History 1
+DMS 201LEC Green Media
+DMS 220LEC Machines, Codes and Cultures
+DMS 259SEM Introduction to Media Analysis
+DMS 333LEC World Cinema
+EAS 330LEC Ethics in Engineering and Computing
+EAS 494SEM Interdisciplinary Capstone Senior DesignPrerequisites
+EE 336LEC Fundamentals of Energy SystemsPrerequisites
+END 279LEC Exploring the Design of Buffalo Niagara
+END 319LEC The City Through Film: Built Environment in Mass MediaPrerequisites
+END 330DIS Global Issues in Design Practice
+ENG 110LEC Great Books
+ENG 125LEC Living Well in the Digital World
+ENG 191LEC Literature and Technology
+ENG 221LEC World Literature
+ENG 232LEC British Writers II
+ENG 241LEC American Writers I
+ENG 242LEC American Writers II
+ENG 256LEC Film
+ENG 290LEC Literature & War
+ENG 368LEC Modern and Contemporary Poetry
+ENG 374LEC Bible As Literature
+ENG 375LEC Heaven, Hell, and Judgement
+ENG 377LEC Mythology
+ENG 380LEC New Media
+ENG 381LEC Film Directors
+ENS 493SEM Capstone Design 1Prerequisites
+ES 200LEC Introduction to Exercise Science
+EVS 321LEC The Environmental Impact of War
+GGS 308LEC Image and Gender
+GGS 330SEM Global Women's Voices
+GGS 334LEC Women in the Middle East
+GGS 347SEM Women in Latin America
+GGS 379SEM Sex: Gender and Popular Culture
+HIS 141LR World History to 1500
+HIS 142LR World History since 1500
+HIS 143LR Global Inequality and Power
+HIS 273LEC The Art and Practice of Fashion
+HIS 293LEC The Second World War
+HIS 307LEC History of Paris
+HIS 322LEC Latin America: Culture and History
+IDS 231SEM Early Indigenous History of 1871
+IDS 232SEM Indigenous History since 1872
+IE 323LLB Human Factors in System DesignPrerequisites
+IE 420LLB Systems Engineering PracticumPrerequisites
+IE 436LEC Work PhysiologyPrerequisites
+JDS 103LEC Introduction to Judaism
+JDS 216LEC The Origin of Ethics and Politics
+JDS 267LEC Ancient Western Wisdom
+JDS 275LEC History of Antisemitism: From Antiquity to the Present
+JDS 284LEC Justice in Bibles, Law, and Philosophy
+MAE 451LEC Design Process and MethodsPrerequisites
+MDI 471LEC Materials for a Regenerative EconomyPrerequisites
+MIC 301LLB Microbiology for Allied Health Professionals
+MIC 401LLB Biomedical MicrobiologyPrerequisites
+MT 401LR Clinical BiochemistryPrerequisites
+MTR 302LEC Musical Theatre HistoryPrerequisites
+MUS 109LEC Master Composer
+MUS 110LEC History of Jazz
+MUS 113LEC Music in Society: Music and Gender
+MUS 114LEC Genres of Music
+MUS 115LEC Understanding Music: A Global Opportunity
+MUS 116LEC Introduction to Music Theory and Musicianship
+MUS 118LEC The Beatles in the 1960's
+MUS 204LEC Music and Money
+MUS 206LEC Music in the Movies
+MUS 301LEC Music Recording and Production
+MUS 302LEC Introduction to Electronic Music II
+MUS 364LEC World Music
+MUS 365LEC Rock Music
+MUS 366LEC Music in Society: Arts One
+NBC 410LLB Public Health Nursing for Population HealthPrerequisites
+NMD 340LEC Patient Care and Management in NMTPrerequisites
+NSG 314LEC Application of Healthcare Informatics to Promote Health, Quality and SafetyPrerequisites
+NSG 393SEM Informatics and the Health Care EnvironmentPrerequisites
+NTR 402LEC Nutrition in the Life CyclePrerequisites
+PGY 300LEC Human PhysiologyPrerequisites
+PGY 451LEC Human Physiology IPrerequisites
+PHI 101LEC Introduction to Philosophy
+PHI 105LEC Contemporary Moral Problems
+PHI 107LEC Ethics
+PHI 234LEC Environmental Ethics
+PHI 345LEC Aesthetics and the Philosophy of Art
+PHI 360LEC Ancient Philosophy
+PHI 370LEC Early Modern Philosophy
+PHI 376LEC Buddhist Philosophy
+PHI 380LEC Nineteenth Century Enlightenment from Kant to Freud
+PUB 340LEC Introduction to EpidemiologyPrerequisites
+RSP 313LEC World Religions
+RUS 250LEC Soviet Cinema through a Sensory Approach
+TH 101LEC Introduction to Theatre
+TH 106LEC Introduction to Technical Theatre
+TH 240SEM Introduction to Stage Combat
+TH 301LEC World Theatre Before 1700
+TH 390LEC Design Resources: Exploring Material Culture
+AAS 253LEC Blacks in Films
+AAS 254LEC Race in Films
+AHI 395LEC Contemporary Art
+AMS 145LEC Cities of the World
+AS 347LEC The Fantastical World of Japanese Anime
+BCH 403LEC Biochemical PrinciplesPrerequisites
+BE 436LR Biomechanics of Human MovementPrerequisites
+BIO 305LEC Fundamentals of Biological ChemistryPrerequisites
+CE 404LR Chemical Engineering Product DesignPrerequisites
+CIE 415LEC Professional Practice IssuesPrerequisites
+CL 110LEC The Latest News from the Ancient World
+CL 180LEC Ancient Sport
+CL 223LEC Roman Civilization
+CSE 442LR Software EngineeringPrerequisites
+CSE 453LEC Hardware/Software Integrated Systems Design 2Prerequisites
+DMS 107LEC Film & Media History 1
+DMS 201LEC Green Media
+DMS 220LEC Machines, Codes and Cultures
+DMS 259SEM Introduction to Media Analysis
+DMS 333LEC World Cinema
+EAS 330LEC Ethics in Engineering and Computing
+EAS 494SEM Interdisciplinary Capstone Senior DesignPrerequisites
+EE 336LEC Fundamentals of Energy SystemsPrerequisites
+END 279LEC Exploring the Design of Buffalo Niagara
+ENG 256LEC Film
+ENG 398LEC Ethics in Journalism
+ENS 493SEM Capstone Design 1Prerequisites
+ES 200LEC Introduction to Exercise Science
+GGS 205LEC Women in the Global System
+GGS 241SEM Women in Developing Countries, Socio-Economic and Political Perspectives
+HIS 141LR World History to 1500
+HIS 143LR Global Inequality and Power
+HIS 181LR Asian Civilization 1
+HIS 182LR Asian Civilization II
+HIS 314LEC Modern Africa: Globalization and Imperialism Since 1800
+HIS 391LEC China and the World
+IE 320LEC Engineering EconomyPrerequisites
+JDS 103LEC Introduction to Judaism
+JDS 284LEC Justice in Bibles, Law, and Philosophy
+MAE 451LEC Design Process and MethodsPrerequisites
+MDI 471LEC Materials for a Regenerative EconomyPrerequisites
+MGO 330LEC Entrepreneurship and Small Business
+MIC 301LLB Microbiology for Allied Health Professionals
+MIC 401LLB Biomedical MicrobiologyPrerequisites
+MT 401LR Clinical BiochemistryPrerequisites
+MUS 204LEC Music and Money
+MUS 206LEC Music in the Movies
+MUS 365LEC Rock Music
+NBC 410LLB Public Health Nursing for Population HealthPrerequisites
+NMD 340LEC Patient Care and Management in NMTPrerequisites
+NSG 314LEC Application of Healthcare Informatics to Promote Health, Quality and SafetyPrerequisites
+NSG 393SEM Informatics and the Health Care EnvironmentPrerequisites
+NTR 402LEC Nutrition in the Life CyclePrerequisites
+PGY 300LEC Human PhysiologyPrerequisites
+PGY 451LEC Human Physiology IPrerequisites
+PHI 105LEC Contemporary Moral Problems
+PHI 107LEC Ethics
+PHI 217LEC Professional Ethics
+PHI 345LEC Aesthetics and the Philosophy of Art
+TH 301LEC World Theatre Before 1700
+AAS 117SEM Hip Hop and Social Issues
+AAS 128SEM Public Policies & Social Justice
+AAS 253LEC Blacks in Films
+AAS 254LEC Race in Films
+AAS 280LEC Survey of African Studies
+AHI 101LEC Survey of Art History: Egypt to Northern Renaissance
+AHI 102LR Survey of Art History: Italian Renaissance to Present
+AHI 111LR World Civilization and Art
+AHI 363LEC Social Issues in American Art
+AHI 395LEC Contemporary Art
+AMS 145LEC Cities of the World
+AMS 325SEM Contemporary Afro-Caribbean Religion
+ART 100LEC What Are You Looking At? Deciphering Design in the World
+ART 375LEC Science, Culture, and Emerging Media
+AS 333LEC South Asian Cinema: Bollywood and Beyond
+AS 338LEC Islam and Literature
+AS 347LEC The Fantastical World of Japanese Anime
+BCH 403LEC Biochemical PrinciplesPrerequisites
+BE 436LR Biomechanics of Human MovementPrerequisites
+BIO 305LEC Fundamentals of Biological ChemistryPrerequisites
+CE 404LR Chemical Engineering Product DesignPrerequisites
+CIE 415LEC Professional Practice IssuesPrerequisites
+CL 105LEC Greek & Roman Archaeology
+CL 110LEC The Latest News from the Ancient World
+CL 112LEC Stone Axe to Tank: Warfare in World History
+CL 222LEC Greek Civilization
+CL 223LEC Roman Civilization
+CL 228LEC Warfare in the Ancient World
+CSE 442LR Software EngineeringPrerequisites
+CSE 453LEC Hardware/Software Integrated Systems Design 2Prerequisites
+DAC 432LEC Applied Kinesiology and Anatomy for DancersPrerequisites
+DMS 259SEM Introduction to Media Analysis
+DMS 333LEC World Cinema
+EAS 494SEM Interdisciplinary Capstone Senior DesignPrerequisites
+EE 336LEC Fundamentals of Energy SystemsPrerequisites
+ENG 221LEC World Literature
+ENG 290LEC Literature & War
+ENG 341LEC Studies in African American Literature
+ENG 374LEC Bible As Literature
+ENG 375LEC Heaven, Hell, and Judgement
+ENG 397LEC Digital and Broadcast Journalism
+ENG 398LEC Ethics in Journalism
+ENS 493SEM Capstone Design 1Prerequisites
+ES 200LEC Introduction to Exercise Science
+GGS 205LEC Women in the Global System
+GGS 308LEC Image and Gender
+GGS 325SEM Violence in a Gendered World
+GGS 347SEM Women in Latin America
+HIS 141LR World History to 1500
+HIS 142LR World History since 1500
+HIS 143LR Global Inequality and Power
+HIS 181LR Asian Civilization 1
+HIS 182LR Asian Civilization II
+HIS 293LEC The Second World War
+HIS 314LEC Modern Africa: Globalization and Imperialism Since 1800
+HIS 322LEC Latin America: Culture and History
+HIS 328LEC History of Brazil
+IDS 231SEM Early Indigenous History of 1871
+IDS 232SEM Indigenous History since 1872
+IE 323LLB Human Factors in System DesignPrerequisites
+IE 420LLB Systems Engineering PracticumPrerequisites
+JDS 103LEC Introduction to Judaism
+JDS 216LEC The Origin of Ethics and Politics
+JDS 267LEC Ancient Western Wisdom
+JDS 275LEC History of Antisemitism: From Antiquity to the Present
+JDS 284LEC Justice in Bibles, Law, and Philosophy
+MAE 451LEC Design Process and MethodsPrerequisites
+MDI 471LEC Materials for a Regenerative EconomyPrerequisites
+MIC 301LLB Microbiology for Allied Health Professionals
+MIC 401LLB Biomedical MicrobiologyPrerequisites
+MT 401LR Clinical BiochemistryPrerequisites
+MUS 113LEC Music in Society: Music and Gender
+MUS 204LEC Music and Money
+MUS 365LEC Rock Music
+NBC 410LLB Public Health Nursing for Population HealthPrerequisites
+NMD 340LEC Patient Care and Management in NMTPrerequisites
+NSG 314LEC Application of Healthcare Informatics to Promote Health, Quality and SafetyPrerequisites
+NSG 393SEM Informatics and the Health Care EnvironmentPrerequisites
+NTR 402LEC Nutrition in the Life CyclePrerequisites
+PGY 300LEC Human PhysiologyPrerequisites
+PGY 451LEC Human Physiology IPrerequisites
+PHI 105LEC Contemporary Moral Problems
+PHI 162LEC Law, Morality, Authority
+PHI 234LEC Environmental Ethics
+PHI 237LEC Medical Ethics: Social & Ethical Values in Medicine
+PHI 341LEC Social Philosophy
+PHI 342LEC Political Philosophy
+TH 240SEM Introduction to Stage Combat
+TH 301LEC World Theatre Before 1700
